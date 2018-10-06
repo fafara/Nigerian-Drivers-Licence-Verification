@@ -1,5 +1,5 @@
 # Nigerian-Drivers-Licence-Verification (BULK)
-Verifies the authenticity of several Nigerian Drivers Licences at once. (Windows version only)
+Verifies the authenticity of several Nigerian Drivers Licences at once. 
 
 ## Details
 Carrying around a fake driver's licence is illegal. You can retrieve several drivers licence information using this desktop app. This drivers license check also helps you avoid issues with the authorities both in Nigeria and abroad by checking if you have a valid drivers licence before driving with your licence.
@@ -19,6 +19,9 @@ You can also verify this information by going directly to FRSC's website.
 
 ## Screenshots
 ![Alt text](https://github.com/tbenjis/Nigerian-Drivers-Licence-Verification/blob/master/app_screen_desktop.png?raw=true)
+
+## Other OS (MacOS, *nix)
+Use the .jar version
 
 ## Android Version
 An Android version for single licence verification can be downloaded here: https://play.google.com/store/apps/details?id=com.edgewalk.licencevalidator
