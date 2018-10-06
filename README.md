@@ -9,6 +9,7 @@ The purpose of this tool is to help you verify the authenticity of several Niger
 ## Steps for Driver's Licence Verification:
 1. Upload the CSV file containing the Drivers Licence and date of birth (CSV format is shown in the sample file).
 2. Click on 'Send Request' to start the process.
+3. After a successful process, it saves the data (CSV) in a path specified by you. (valid, invalid, server_error, and expired)
 
 Public data is accessed on FRSC's website to find out if your details exist on their database. If it does, your licence was duly registered and is authentic.
 
