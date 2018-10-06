@@ -18,7 +18,6 @@ You can also verify this information by going directly to FRSC's website.
 
 ## Screenshots
 ![Alt text](https://github.com/tbenjis/Nigerian-Drivers-Licence-Verification/blob/master/app_screen_desktop.png?raw=true)
-![Alt text](https://github.com/tbenjis/Nigerian-Drivers-Licence-Verification/blob/master/app_sceen_desktop2.png?raw=true)
 
 ## Android Version
 An Android version for single licence verification can be downloaded here: https://play.google.com/store/apps/details?id=com.edgewalk.licencevalidator
