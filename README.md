@@ -2,7 +2,7 @@
 Verifies the authenticity of several Nigerian Drivers Licences at once. (Windows version only)
 
 ## Details
-Carrying around a fake driver's licence is illegal. Don't get caught with a fake Nigerian Driver's Licence. You can retrieve Driving licence information using this desktop app. This drivers license check also helps you avoid issues with the authorities both in Nigeria and abroad by checking if you have a valid drivers licence before driving with your licence.
+Carrying around a fake driver's licence is illegal. You can retrieve several drivers licence information using this desktop app. This drivers license check also helps you avoid issues with the authorities both in Nigeria and abroad by checking if you have a valid drivers licence before driving with your licence.
 
 The purpose of this tool is to help you verify the authenticity of several Nigerian Drivers Licence on FRSC's website. 
 
