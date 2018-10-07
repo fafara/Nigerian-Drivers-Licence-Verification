@@ -30,4 +30,4 @@ An Android version for single licence verification can be downloaded here: https
 ## Issues
 Please create an issue if there's a problem. The application was built with Java and requires Java Runtime Environment (JRE) to run. I think most Windows machines will have that. If not download here: https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
-This is a rough work in a day and its not perfect or intended to solve all your problems. It just makes the process of verification easier for companies or people who need to verify the identity of their clients.
+This is a rough work and its not perfect. It just makes the process of verification easier for companies or people who need to verify the identity of their clients.
