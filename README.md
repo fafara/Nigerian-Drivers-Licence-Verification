@@ -7,7 +7,7 @@ Carrying around a fake driver's licence is illegal. You can retrieve several dri
 The purpose of this tool is to help you verify the authenticity of several Nigerian Drivers Licence on FRSC's website. 
 
 ## Steps for Driver's Licence Verification
-1. Upload the CSV file containing the Drivers Licence and date of birth (CSV format is shown in the sample file).
+1. Upload the CSV file containing the Drivers Licence and date of birth (CSV format is shown in the sample file https://github.com/tbenjis/Nigerian-Drivers-Licence-Verification/blob/master/licence_sample.csv).
 2. Click on 'Send Request' to start the process.
 3. It separates valid, expired, and invalid licences in different files and a separate file for errors which can be retried later.
 3. After a successful process, it saves the data (CSV) in a path specified by you. (valid, invalid, server_error, and expired)
